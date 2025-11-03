@@ -38,8 +38,50 @@
 </div>
 
 <div align="center">
-  
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Devourer322)
+  <img src="https://github.r2v.ch/codewars?user=Devourer322&stroke=%23BB432C&theme=dark" alt="Codewars Stats"/>
+</div>
+
+<div align="center">
+
+### 📈 Overall Statistics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23B1361E&label=Rank&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&logo=codewars&logoColor=red" alt="Rank"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23B1361E&label=Honor&query=%24.honor&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&logo=codewars&logoColor=red" alt="Honor"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23B1361E&label=Total%20Completed&query=%24.codeChallenges.totalCompleted&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&logo=codewars&logoColor=red" alt="Total Completed"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23B1361E&label=Leaderboard%20Position&query=%24.leaderboardPosition&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&logo=codewars&logoColor=red" alt="Leaderboard"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🏅 Progress by Language
+
+| Language | Rank | Score | Color |
+|----------|------|-------|-------|
+| **JavaScript** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
+| **Python** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
+| **TypeScript** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
+| **C#** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
+
+</div>
+
+<div align="center">
+
+[![Codewars Profile](https://img.shields.io/badge/View%20Full%20Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Devourer322)
 
 </div>
 
