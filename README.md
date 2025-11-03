@@ -12,10 +12,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devourer322&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devourer322&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devourer322&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=ffffff"/>
 </div>
 
