@@ -74,8 +74,6 @@
 |----------|------|-------|-------|
 | **JavaScript** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=F7DF1E&label=&query=%24.ranks.languages.javascript.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
 | **Python** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=3776AB&label=&query=%24.ranks.languages.python.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
-| **TypeScript** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=007ACC&label=&query=%24.ranks.languages.typescript.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
-| **C#** | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.score&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322&suffix=%20pts) | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1c1c1c&color=239120&label=&query=%24.ranks.languages.csharp.color&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2FDevourer322) |
 
 </div>
 
@@ -90,7 +88,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devourer322&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Devourer322&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -180,7 +178,7 @@ const devourer322: DeveloperProfile = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="50" height="50"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -231,14 +229,6 @@ const devourer322: DeveloperProfile = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
   </a>
 </p>
-
----
-
-## 📊 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devourer322&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=ffffff" alt="Wakatime Stats"/>
-</div>
 
 ---
 
